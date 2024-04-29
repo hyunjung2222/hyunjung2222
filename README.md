@@ -3,18 +3,25 @@
   ![header](https://capsule-render.vercel.app/api?type=wave&text=Welcome&fontColor=FFFFFF&fontSize=60&height=250)
 
 
-## 자기소개
+## :sparkles:자기소개:sparkles:
 
-*컴퓨터공학과*     
-*이현정*    
-*백엔드*
+*컴퓨터공학과 3학년 이현정입니다.    
+백엔드 파트 공부중입니다.            
+MBTI: ISFJ*     
+&nbsp;    
+&nbsp;        
+      
+## 💻배운 것    
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>    
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>     
+&nbsp;       
+&nbsp;       
+&nbsp;    
 
-## 배운 언어  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-## 배우고 있는 중
+  
+## 🎀공부 중    
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>   
 
 </div>
