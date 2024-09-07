@@ -5,8 +5,8 @@
 
 ## :sparkles:자기소개:sparkles:
 
-*컴퓨터공학과 3학년 이현정입니다.                
-MBTI: ISFJ*     
+컴퓨터공학과 3학년 이현정입니다.                
+MBTI: ISFJ
 <br/><br/>          
       
 ## 💻배운 것    
