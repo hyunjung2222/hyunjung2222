@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&text=Welcome&fontColor=FFFFFF&fontSize=60&height=250)
+  ![header](https://capsule-render.vercel.app/api?type=venom&text=Hyeonjeong's%Github&fontColor=FFFFFF&fontSize=60&height=200)
 
 
 ## :sparkles:자기소개:sparkles:
