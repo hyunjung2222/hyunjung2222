@@ -12,11 +12,6 @@ MBTI: ISFJ
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>   
@@ -68,7 +63,7 @@ MBTI: ISFJ
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunjung2222&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=80%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunjung2222&theme=monokai&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=75%/>
 </a>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=LiylE1)
