@@ -7,7 +7,8 @@
 
 컴퓨터공학과 3학년 이현정입니다.                
 MBTI: ISFJ
-<br/><br/>          
+
+<br><br>          
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
