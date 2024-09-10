@@ -18,6 +18,7 @@ MBTI: ISFJ
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>    
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>     
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>  
 </div>
 
 <br>
@@ -39,8 +40,10 @@ MBTI: ISFJ
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+<div align="center>
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=vscode&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp 
 </div>
