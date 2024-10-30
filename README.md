@@ -6,7 +6,7 @@
 ## :sparkles:자기소개:sparkles:
 
 NLP와 백엔드 공부 중인 이현정입니다.               
-MBTI: ISFJ
+
 
 <br><br>          
 
